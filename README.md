@@ -1,5 +1,17 @@
-# Vue 3 + Vite
+# Introdução ao Vue.js 🚀  
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este projeto marca meu primeiro contato com o framework **Vue.js**, desenvolvido a partir de um design proposto no Figma. Foi uma oportunidade prática para aprender os fundamentos do Vue.js e explorar como transformar designs estáticos em interfaces dinâmicas.  
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🛠️ Tecnologias Utilizadas  
+- **Vue.js**: Framework JavaScript progressivo para construção de interfaces.  
+- **HTML/SCSS**: Estrutura e estilização da aplicação.  
+- **Figma**: Design de referência para o projeto.  
+
+## 🌟 Objetivos do Projeto  
+- Compreender a estrutura básica de um projeto Vue.js.  
+- Aprender a criar e manipular componentes.  
+- Explorar a reatividade do Vue.js para interações dinâmicas com o DOM.  
+
+## 📝 O que foi desenvolvido?  
+- **Interface interativa** baseada no design do Figma.  
+- **Componentes reutilizáveis** para organização do código.
